@@ -2,7 +2,7 @@ Hi there (^///^)
 
 my goal : be a good fullstack dev.
 
-Right now I’m building projects and improving my skills in:
+ I'm studying rn:
 
  
 • HTML
