@@ -15,4 +15,4 @@ my goal : be a good fullstack dev.
 
 
 
- Now I'm creating pet projects to improve my skills 🤔
+ Now I'm creating pet projects to improve my skills 💻
