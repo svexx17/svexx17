@@ -1,12 +1,9 @@
 Hi there 
 
 
-• HTML
-
-• CSS
+• HTML, CSS
 
 • JavaScript, React
 
-• (Node.Js)
 
 
